@@ -14,8 +14,8 @@ import PyPDF2
 import io
 
 # TODO: Replace these with your actual values
-TOKEN = "cc45166fd38a"  # Replace with your application key
-MY_NUMBER = "918010353482"  # Replace with your phone number (country code + number, no +)
+TOKEN = "faketoken"  # Replace with your application key
+MY_NUMBER = "fakeno"  # Replace with your phone number (country code + number, no +)
 
 # TODO: Set the path to your resume file
 RESUME_PATH = "resume_athrva.pdf"  # Change this to your resume file path
